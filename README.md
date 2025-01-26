@@ -96,4 +96,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 Este projeto foi desenvolvido por **Cristiano S. F. Mothe**. Para mais informações, confira o portfólio abaixo:
 
 - 🌐 <a href="https://portfolio-qa-cristiano.vercel.app/">**Portfólio**</a>
+
 - 💼 <a href="https://www.linkedin.com/in/cristiano-da-silva-ferreira/">**LinkedIn**</a>
