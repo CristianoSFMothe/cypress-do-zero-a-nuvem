@@ -29,10 +29,10 @@ Agora é hora de colocar os novos conhecimentos em prática!
 
 Você quer manter contato comigo? Participe do grupo [**Talking About Testing**](https://www.linkedin.com/groups/12492726/) no LinkedIn.
 
-Confira também os [outros cursos](https://www.udemy.com/user/walmyr/) da Escola Talking About Testing.
+Confira também os [outros cursos](https://www.udemy.com/user/Cristiano/) da Escola Talking About Testing.
 
-> Por fim, compartilhe o certificado do curso em seu perfil do LinkedIn para mostrar que você pode criar testes automatizados e2e com Cypress e executá-los em um _workflow_ de integração contínua integrado ao Cypress Cloud. Use as _hashtags_ **#TalkingAboutTesting #EscolaTAT #CypressDoZeroANuvem #Cypress #CypressCloud #GitHubActions**.
+> Por fim, compartilhe o certificado do curso em seu perfil do LinkedIn para mostrar que você pode criar testes automatizados e2e com Cypress e executá-los em um _workflow_ de integração contínua integrado ao Cypress Cloud. Use as _hashtags_ **#email #EscolaTAT #CypressDoZeroANuvem #Cypress #CypressCloud #GitHubActions**.
 
-**Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/walmyr-lima-e-silva-filho).
+**Obs.:** Lembre-se de me marcar em sua postagem. [Aqui está meu perfil no LinkedIn](https://www.linkedin.com/in/Cristiano-lima-e-silva-filho).
 
 Bons testes! 🚀

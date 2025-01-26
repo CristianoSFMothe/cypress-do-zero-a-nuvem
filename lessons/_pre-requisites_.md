@@ -27,9 +27,9 @@ Para que você tire o melhor proveito do curso, é necessário que você possua 
 - [Seletores CSS](https://www.youtube.com/playlist?list=PL-eblSNRj0QHGg3iE2HAtOkzIyNH9DSjL)
 - [Linha de comando](https://github.com/wlsf82/linha-de-comando-basico/) e [git](https://youtube.com/live/xmTU2jqLuAc?feature=share)
 
-> **Obs. 5:** Deixei links acima para playlists sobre JS e seletores CSS no [Canal TAT no YouTube](https://youtube.com/@talkingabouttesting), além de um repositório no GitHub com o básico de linha de comando e um vídeo sobre os comandos de git que mais utilizo.
+> **Obs. 5:** Deixei links acima para playlists sobre JS e seletores CSS no [Canal TAT no YouTube](https://youtube.com/@email), além de um repositório no GitHub com o básico de linha de comando e um vídeo sobre os comandos de git que mais utilizo.
 
-___
+---
 
 Legal, os pré-requisitos estão prontos. ☑️
 
