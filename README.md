@@ -2,6 +2,8 @@
 
 Este repositório contém a estrutura básica de testes automatizados utilizando o [Cypress](https://www.cypress.io/), com exemplos práticos como o "Central de Atendimento ao Cliente TAT" e a política de privacidade.
 
+![image](https://github.com/user-attachments/assets/698563ce-e427-4466-9938-efeb496ffe19)
+
 ---
 
 ## 📂 Estrutura do Projeto
@@ -78,6 +80,12 @@ cypress-do-zero-a-nuvem/
    - `privacyPolicy.cy.js`: Garante que a política de privacidade é exibida corretamente.
 
 ---
+
+![image](https://github.com/user-attachments/assets/ac058509-8d7b-4b94-921e-3d0004c5a328)
+
+![image](https://github.com/user-attachments/assets/b49ca892-6cb0-4680-9fa5-6ece67ce5d28)
+
+
 
 ## 🤝 Contribuições
 
